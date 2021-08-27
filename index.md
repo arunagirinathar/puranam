@@ -1,3 +1,15 @@
+# śrī-gaṇeśa-śāradā-gurubhyo namaḥ
+
+vāgīśā yasya vadane lakṣmīryasya ca vakṣasi
+yasyāste hr̥daye saṁvittaṁ nr̥siṁhamahaṁ bhaje
+
+jñānānandamayaṁ devaṁ nirmalasphaṭikākr̥tim
+ādhāraṁ sarva vidyānāṁ hayagrīvamupāsmahe
+
+yasya dvidaradavaktrādyāḥ pāriṣadyāḥ paraḥ śatam
+vighnaṁ dighnanti satataṁ viṣvaksenaṁ tamāśraye
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/arunagirinathar/puranam/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
