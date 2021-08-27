@@ -1,4 +1,4 @@
-# śrī-gaṇeśa-śāradā-gurubhyo namaḥ
+## śrī-gaṇeśa-śāradā-gurubhyo namaḥ
 
 śuklāmbaradharaṁ **viṣṇuṁ** śaśivarṇaṁ caturbhujam<br />
 prasannavadanaṁ dhyāyet sarvavighnopaśāntaye [1]
