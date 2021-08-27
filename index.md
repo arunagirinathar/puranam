@@ -1,14 +1,23 @@
 # śrī-gaṇeśa-śāradā-gurubhyo namaḥ
 
-vāgīśā yasya vadane lakṣmīryasya ca vakṣasi
-yasyāste hr̥daye saṁvittaṁ nr̥siṁhamahaṁ bhaje
+śuklāmbaradharaṁ **viṣṇuṁ** śaśivarṇaṁ caturbhujam<br />
+prasannavadanaṁ dhyāyet sarvavighnopaśāntaye [1]
 
-jñānānandamayaṁ devaṁ nirmalasphaṭikākr̥tim
-ādhāraṁ sarva vidyānāṁ hayagrīvamupāsmahe
+vāgīśā yasya vadane lakṣmīryasya ca vakṣasi<br />
+yasyāste hr̥daye saṁvittaṁ **nr̥siṁham** ahaṁ bhaje [2]
 
-yasya dvidaradavaktrādyāḥ pāriṣadyāḥ paraḥ śatam
-vighnaṁ dighnanti satataṁ viṣvaksenaṁ tamāśraye
+jñānānandamayaṁ devaṁ nirmalasphaṭikākr̥tim<br />
+ādhāraṁ sarva vidyānāṁ **hayagrīvam** upāsmahe [3]
 
+yasya dvidaradavaktrādyāḥ pāriṣadyāḥ paraḥ śatam<br />
+vighnaṁ dighnanti satataṁ **viṣvaksenaṁ** tamāśraye [4]
+
+----
+
+1. I meditate upon the supreme Lord of four arms, resplendent like the glowing moon, who adorns white robes and is of a pleasing face, to ward off all obstacles.
+2. I propitiate (the supreme) Lord Narasimha who adorns the Lord of Speech in his mouth, Goddess Lakshmi in His chest and who is verily Omniscient in the depths of His heart.
+3. I worship Lord Hayagriva who is the embodiment of supreme wisdom (which is the cause of) and transcendental happiness, who is resplendent like the flawless sphatika stone and from whom all knowledge (known and yet to be known) arises.
+4. 
 
 ## Welcome to GitHub Pages
 
